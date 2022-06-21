@@ -17,6 +17,7 @@ body{
     transform: rotateY(45deg);
     animation: girar 5000ms infinite linear;
 }
+
 @keyframes girar{
     0%{
         transform: rotateY(0) rotateX(0);
@@ -25,6 +26,7 @@ body{
         transform: rotateY(360deg) rotateX(-360deg);
     }
 }
+
 .cara{
     position: absolute;
     width: 100%;
