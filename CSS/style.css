@@ -15,7 +15,7 @@ body{
     position: relative;
     transform-style: preserve-3d;
     transform: rotateY(45deg);
-    animation: girar 5000ms infinite linear;
+    animation: girar 10000ms infinite linear;
 }
 
 @keyframes girar{
